@@ -1,7 +1,7 @@
 from pyrogram.types import InlineKeyboardButton
 
 import config
-from AarohiX.utils import random 
+from VipX.utils import random 
 
 ## After Edits with Timer Bar
 
